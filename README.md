@@ -5,6 +5,10 @@
 
 - [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named).
 
+## Java
+
+- The language was initially called Oak after an oak tree that stood outside James Gosling(Developer of Java)'s office. Later the project went by the name Green and was finally renamed Java, from [Java coffee](https://en.wikipedia.org/wiki/Java_coffee).
+
 ## Python
 
 - In [Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)(Developer of Python)'s own words:
@@ -14,3 +18,5 @@ _"In December 1989, I was looking for a "hobby" programming project that would k
 ## Ruby
 
 - The name "Ruby" originated during an online chat session between Yukihiro Matsumoto(DEveloper of Ruby) and Keiju Ishitsuka on February 24, 1993, before any code had been written for the language. Initially two names were proposed: "Coral" and "Ruby". Matsumoto chose the latter in a later e-mail to Ishitsuka.[15] Matsumoto later noted a factor in choosing the name "Ruby" – it was the birthstone of one of his colleagues.
+
+
