@@ -1,5 +1,5 @@
 # How Products Got Their Name
-> List of products/projects and the description of how they got their name
+> Sometimes it's kind of interesting to know the origins of the products/projects we love. Here's a list of such products/projects and the details of how they got their name
 
 ## MySQL (Database management system)
 
