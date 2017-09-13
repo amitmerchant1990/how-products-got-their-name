@@ -5,6 +5,10 @@
 
 [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named).
 
+### Git (Version control system)
+
+Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
+
 ### Java (Programming language) 
 
 The language was initially called Oak after an oak tree that stood outside James Gosling(Developer of Java)'s office. Later the project went by the name Green and was finally renamed Java, from [Java coffee](https://en.wikipedia.org/wiki/Java_coffee).
