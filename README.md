@@ -23,4 +23,8 @@ _"In December 1989, I was looking for a "hobby" programming project that would k
 
 - The name Scala is a portmanteau of scalable and language, signifying that it is designed to grow with the demands of its users.
 
+## Django (Python frmaework)
+
+- The framework was named after guitarist [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt).
+
 
