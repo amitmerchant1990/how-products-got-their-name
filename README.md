@@ -27,4 +27,16 @@ _"In December 1989, I was looking for a "hobby" programming project that would k
 
 - The framework was named after guitarist [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt).
 
+## Chrome (Browser)
 
+An answer from Glen Murphy, Design Lead, Google Chrome on asking "How Chrome gets its name?". In his words,
+
+_"We had a ‘pick a codename’ vote early in the development cycle – the names that came of that competition were so terrible that we were all pretty happy when one of the leads overrode it and declared that the codename would be ‘Chrome’, presumably because he likes fast cars."_
+
+## Mozilla (Company)
+
+- The history of the name Mozilla goes all the way back to the internal codename for the original 1994 Netscape Navigator browser, with the name meaning "Mosaic killer" and aiming to some similarity with the building-crushing [Godzilla](https://en.wikipedia.org/wiki/Godzilla), as the company's goal was to displace [NCSA Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser)) as the world's number one web browser. The name Mozilla was revived as the 1998 open sourcing spinoff organization from Netscape.
+
+## Firefox (Browser)
+
+- The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird"(which was the former name of Firefox), but also for its uniqueness in the computing industry.
