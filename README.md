@@ -39,4 +39,8 @@ The history of the name Mozilla goes all the way back to the internal codename f
 
 ## Firefox (Browser)
 
-The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird"(which was the former name of Firefox), but also for its uniqueness in the computing industry.
+The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird" (which was the former name of Firefox), but also for its uniqueness in the computing industry.
+
+## Laravel (PHP Framework)
+
+_"When trying to think of names, I thought about the geography of Tolkien's Middle Earth and C.S. Lewis' Narnia. In Narnia, Cair Paravel is the name of the castle where the kings and queens of Narnia live. Laravel rhymes with Paravel. I thought the name had a classy and sophisticated ring to it."_ — [Taylor Otwell](https://twitter.com/taylorotwell) (Creator of Laravel)
