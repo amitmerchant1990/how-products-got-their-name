@@ -76,6 +76,12 @@ The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki
 
 _"When trying to think of names, I thought about the geography of Tolkien's Middle Earth and C.S. Lewis' Narnia. In Narnia, Cair Paravel is the name of the castle where the kings and queens of Narnia live. Laravel rhymes with Paravel. I thought the name had a classy and sophisticated ring to it."_ — [Taylor Otwell](https://twitter.com/taylorotwell) (Creator of Laravel)
 
+### Hadoop (Open source big data software)
+
+The name Hadoop is not an acronym; it’s a made-up name. The project’s creator, [Doug Cutting](https://en.wikipedia.org/wiki/Doug_Cutting), explains how the name came about:
+
+> The name my kid gave a stuffed yellow elephant. Short, relatively easy to spell and pronounce, meaningless, and not used elsewhere: those are my naming criteria. Kids are good at generating such. Googol is a kid’s term.
+
 ### Skype (Instant messaging app)
 
 The name for the software is derived from "Sky peer-to-peer", which was then abbreviated to "Skyper". However, some of the domain names associated with "Skyper" were already taken. Dropping the final "r" left the current title "Skype", for which domain names were available.
