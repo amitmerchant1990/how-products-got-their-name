@@ -14,6 +14,14 @@
   - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
   - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
   - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name#skype-instant-messaging-app)
+  
+### JavaScript (Programming language)
+
+From an [interview](http://www.infoworld.com/d/developer-world/javascript-creator-ponders-past-future-704) made to its creator [Brendan Eich](http://en.wikipedia.org/wiki/Brendan_Eich):
+
+InfoWorld: As I understand it, JavaScript started out as Mocha, then became LiveScript and then became JavaScript when Netscape and Sun got together. But it actually has nothing to do with Java or not much to do with it, correct?
+
+Eich: That’s right. It was all within six months from May till December (1995) that it was Mocha and then LiveScript. And then in early December, Netscape and Sun did a license agreement and it became JavaScript. And the idea was to make it a complementary scripting language to go with Java, with the compiled language.
 
 ### MySQL (Database management system)
 
