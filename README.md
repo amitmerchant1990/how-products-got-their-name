@@ -14,6 +14,7 @@
   - [Mozilla (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#mozilla-company)
   - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
   - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
+  - [Hadoop (Open source big data software)](https://github.com/amitmerchant1990/how-products-got-their-name#hadoop-open-source-big-data-software)
   - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name#skype-instant-messaging-app)
   
 ### JavaScript (Programming language)
