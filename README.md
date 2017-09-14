@@ -1,6 +1,19 @@
 # How Products Got Their Name
 > Sometimes it's kind of interesting to know the origins of the products/projects we love. Here's a list of such products/projects and the details of how they got their name
 
+  - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#mysql-database-management-system)
+  - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#git-version-control-system)
+  - [Ubuntu (Operation system)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#ubuntu-operation-system)
+  - [Java (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#java-programming-language)
+  - [Python (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#python-programming-language)
+  - [Ruby (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#ruby-programming-language)
+  - [Scala (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#scala-programming-language)
+  - [Django (Python frmaework)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#django-python-frmaework)
+  - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#chrome-browser)
+  - [Mozilla (Company)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#mozilla-company)
+  - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#firefox-browser)
+  - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#laravel-php-framework)
+
 ### MySQL (Database management system)
 
 [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named).
