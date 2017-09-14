@@ -16,7 +16,7 @@
   - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
   - [Hadoop (Open source big data software)](https://github.com/amitmerchant1990/how-products-got-their-name#hadoop-open-source-big-data-software)
   - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name#skype-instant-messaging-app)
-  - [Adobe](https://github.com/amitmerchant1990/how-products-got-their-name#adobe-company)
+  - [Adobe (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#adobe-company)
   
 ### JavaScript (Programming language)
 
