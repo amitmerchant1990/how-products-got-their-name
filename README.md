@@ -1,6 +1,7 @@
 # How Products Got Their Name
 > Sometimes it's kind of interesting to know the origins of the products/projects we love. Here's a list of such products/projects and the details of how they got their name
 
+  - [JavaScript (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name#javascript-programming-language)
   - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
   - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
   - [Ubuntu (Operation system)](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operation-system)
