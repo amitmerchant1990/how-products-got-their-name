@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/amitmerchant1990/how-products-got-their-name/master/banner.jpg)
-> Sometimes, it's kind of interesting to know the origins of the products/projects we love. Here's a list of such products/projects and the stories of how they got their name
+> Sometimes, it's kind of interesting to know the origins of the products/projects we love. Here's a list of such products/projects and the stories of how they got their name.
 
   - [JavaScript (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name#javascript-programming-language)
   - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
