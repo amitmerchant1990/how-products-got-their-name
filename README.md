@@ -9,7 +9,7 @@
   - [Python (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name#python-programming-language)
   - [Ruby (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name#ruby-programming-language)
   - [Scala (Programming language)](https://github.com/amitmerchant1990/how-products-got-their-name#scala-programming-language)
-  - [Django (Python frmaework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-frmaework)
+  - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-frmaework)
   - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
   - [Mozilla (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#mozilla-company)
   - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
