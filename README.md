@@ -9,6 +9,10 @@
 
 Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
 
+### Ubuntu (Operation system)
+
+The OS was named after the Southern African philosophy of [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(philosophy)) (literally, 'human-ness'), which Canonical Ltd. suggests can be loosely translated as "humanity to others" or "I am what I am because of who we all are".
+
 ### Java (Programming language) 
 
 The language was initially called Oak after an oak tree that stood outside James Gosling(Developer of Java)'s office. Later the project went by the name Green and was finally renamed Java, from [Java coffee](https://en.wikipedia.org/wiki/Java_coffee).
