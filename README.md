@@ -13,6 +13,7 @@
   - [Mozilla (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#mozilla-company)
   - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
   - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
+  - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name/blob/master/README.md#skype)
 
 ### MySQL (Database management system)
 
@@ -66,7 +67,7 @@ The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki
 
 _"When trying to think of names, I thought about the geography of Tolkien's Middle Earth and C.S. Lewis' Narnia. In Narnia, Cair Paravel is the name of the castle where the kings and queens of Narnia live. Laravel rhymes with Paravel. I thought the name had a classy and sophisticated ring to it."_ — [Taylor Otwell](https://twitter.com/taylorotwell) (Creator of Laravel)
 
-### Skype
+### Skype (Instant messaging app)
 
 The name for the software is derived from "Sky peer-to-peer", which was then abbreviated to "Skyper". However, some of the domain names associated with "Skyper" were already taken. Dropping the final "r" left the current title "Skype", for which domain names were available.
 
