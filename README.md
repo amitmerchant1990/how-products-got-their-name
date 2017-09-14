@@ -87,6 +87,10 @@ The name Hadoop is not an acronym; it’s a made-up name. The project’s creato
 
 The name for the software is derived from "Sky peer-to-peer", which was then abbreviated to "Skyper". However, some of the domain names associated with "Skyper" were already taken. Dropping the final "r" left the current title "Skype", for which domain names were available.
 
+### Adobe (Company)
+
+The name Adobe was derived from Adobe Creek, a river or creek that ran behind the house of John Warnock, one of the founders. But where is Adobe Creek? It's located in Los Altos, California.
+
 ## Contribute
 
 Do you have some more products/projects to add which have interesting origin to their name? Please go ahead and add to this list.
