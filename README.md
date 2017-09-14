@@ -66,6 +66,10 @@ The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki
 
 _"When trying to think of names, I thought about the geography of Tolkien's Middle Earth and C.S. Lewis' Narnia. In Narnia, Cair Paravel is the name of the castle where the kings and queens of Narnia live. Laravel rhymes with Paravel. I thought the name had a classy and sophisticated ring to it."_ — [Taylor Otwell](https://twitter.com/taylorotwell) (Creator of Laravel)
 
+### Skype
+
+The name for the software is derived from "Sky peer-to-peer", which was then abbreviated to "Skyper". However, some of the domain names associated with "Skyper" were already taken. Dropping the final "r" left the current title "Skype", for which domain names were available.
+
 ## Contribute
 
 Do you have some more products/projects to add which have interesting origin to their name? Please go ahead and add to this list.
