@@ -92,6 +92,10 @@ The name for the software is derived from "Sky peer-to-peer", which was then abb
 
 The name Adobe was derived from Adobe Creek, a river or creek that ran behind the house of John Warnock, one of the founders. But where is Adobe Creek? It's located in Los Altos, California.
 
+### Apache (Software foundation)
+
+According to the FAQ in the Apache project website, the name Apache was chosen out of respect to the Native American tribe [Apache](https://en.wikipedia.org/wiki/Apache) and their superior skills in warfare and strategy. The name was widely believed to be a pun on 'A Patchy Server' (since it was a set of software patches).
+
 ## Contribute
 
 Do you have some more products/projects to add which have interesting origin to their name? Please go ahead and add to this list.
