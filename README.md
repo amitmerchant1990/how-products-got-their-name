@@ -51,8 +51,10 @@ _"In December 1989, I was looking for a "hobby" programming project that would k
 
 ### Ruby (Programming language) 
 
-The name "Ruby" originated during an online chat session between Yukihiro Matsumoto(DEveloper of Ruby) and Keiju Ishitsuka on February 24, 1993, before any code had been written for the language. Initially two names were proposed: "Coral" and "Ruby". Matsumoto chose the latter in a later e-mail to Ishitsuka. Matsumoto later noted a factor in choosing the name "Ruby" – it was the birthstone of one of his colleagues.
-
+The name "Ruby" originated during an online chat session between Yukihiro Matsumoto (Developer of Ruby) and Keiju Ishitsuka on February 24, 1993, before any code had been written for the language. Initially two names were proposed: "Coral" and "Ruby". Matsumoto chose the latter in a later e-mail to Ishitsuka. Matsumoto later noted a factor in choosing the name "Ruby" – it was the birthstone of one of his colleagues.
+  
+[Translated chat](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/88819) when name was decided and email they've shared. The original conversation was in Japanese.
+  
 ### Scala (Programming language) 
 
 The name Scala is a portmanteau of scalable and language, signifying that it is designed to grow with the demands of its users.
