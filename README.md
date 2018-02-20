@@ -87,7 +87,7 @@ The history of the name Mozilla goes all the way back to the internal codename f
 
 ### Firefox (Browser)
 
-The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird" (which was the former name of Firefox), but also for its uniqueness in the computing industry.
+The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird" (which was the former name of Firefox), but also for its uniqueness in the computing industry as the name Firebird clashed with the opensource Firebird database. The name "Firebird" itself was picked because it was another name for a "Phoenix" (which was the browser's name prior to Firebird). "Phoenix" was chosen as it was the browser that rose from the ashes of the Mozilla browser, however a trademark infringement complaint from Phoenix Technologies prompted the name change to Firebird.
 
 ### Laravel (PHP Framework)
 
