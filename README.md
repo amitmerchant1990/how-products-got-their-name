@@ -118,6 +118,7 @@ According to the FAQ in the Apache project website, the name Apache was chosen o
 
 "MongoDB" derives from the word "humongous" because of the database’s ability to scale up with ease and hold very large amounts of data.
 
+## Companies
 ### Xerox (Company)
 
 It has been derived from xerography, a word derived from the Greek xeros (dry) and graphos (writing).
