@@ -7,6 +7,8 @@
     - [Python](https://github.com/amitmerchant1990/how-products-got-their-name#python-programming-language)
     - [Ruby](https://github.com/amitmerchant1990/how-products-got-their-name#ruby-programming-language)
     - [Scala](https://github.com/amitmerchant1990/how-products-got-their-name#scala-programming-language)
+    - [Haskell](https://github.com/amitmerchant1990/how-products-got-their-name#haskell-programming-language)
+    - [C#](https://github.com/amitmerchant1990/how-products-got-their-name#c-programming-language)
   - Operating systems
     - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operation-system)
     - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
@@ -22,6 +24,7 @@
     - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name#skype-instant-messaging-app)
     - [Apache (Software foundation)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-software-foundation)
     - [MongoDB (Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mongodb-database)
+    - [Bash (Unix shell)](https://github.com/amitmerchant1990/how-products-got-their-name#bash-unix-shell)
   - Companies
     - [Xerox](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
     - [Microsoft](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
