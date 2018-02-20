@@ -143,7 +143,7 @@ The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who env
 
 ## Contribute
 
-Do you have some more products/projects to add which have interesting origin to their name? Please go ahead and add to this list.
+Do you have some more products/projects/companies to add which have interesting origin to their name? Please go ahead, add it to this list and raise a pull-request.
 
 ## License
 
