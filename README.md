@@ -141,6 +141,24 @@ The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who env
 
 > _Reference: https://en.wikipedia.org/wiki/Macintosh_
 
+### Haskell (Programming Language)
+
+The team that developed Haskell initially settled on the name "Curry", after American mathematician Haskell Curry, whose work heavily contributed to the development of functional programming paradigm. However, the team then had the opportunity to "sleep on it" for the night, after which a committee member pointed out that "The Tim" is a very popular abstract machine. And so the team decided to change the name to Haskell to avoid user associating the language with actor Tim Curry, then best known for playing Dr. Frank N. Furter in The Rocky Horror Picture Show.
+
+> _Reference: [Professor John Hughes](https://youtu.be/LnX3B9oaKzw?t=184)
+
+### C# (Programming Language)
+
+The original codename for the language is "cool" which stand for "C like Object Oriented Language". However, due to legal and copyright issues, Anders Hejlsberg (Creator of C#) and his team were forced to come up with a new name. They decided to call their new language as C# as the '#' symbol looks like two '++' stacked on one another, indicating that C# is an increment of C++.
+
+> _Reference: https://www.computerworld.com.au/article/261958/a-z_programming_languages_c_/?pp=2
+
+### Bash (Unix shell)
+
+As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash stand for Bourne Again SHell, a pun on the phrase "born-again'.
+
+> _Reference: http://www.markus-gattol.name/ws/bash.html
+
 ## Contribute
 
 Do you have some more products/projects/companies to add which have interesting origin to their name? Please go ahead, add it to this list and raise a pull-request.
