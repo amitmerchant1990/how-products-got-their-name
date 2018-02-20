@@ -20,13 +20,13 @@
     - [Hadoop (Open source big data software)](https://github.com/amitmerchant1990/how-products-got-their-name#hadoop-open-source-big-data-software)
     - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name#skype-instant-messaging-app)
     - [Apache (Software foundation)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-software-foundation)
-    - [Zend Technologies (Organisation)](https://github.com/amitmerchant1990/how-products-got-their-name#zend-technologiesorganisation)
     - [MongoDB (Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mongodb-database)
   - Companies
     - [Xerox](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
     - [Microsoft](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
     - [Mozilla](https://github.com/amitmerchant1990/how-products-got-their-name#mozilla-company)
     - [Adobe](https://github.com/amitmerchant1990/how-products-got-their-name#adobe-company)  
+    - [Zend Technologies](https://github.com/amitmerchant1990/how-products-got-their-name#zend-technologiesorganisation)
   
 ### JavaScript (Programming language)
 
