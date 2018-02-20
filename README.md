@@ -30,7 +30,8 @@
     - [Zend Technologies](https://github.com/amitmerchant1990/how-products-got-their-name#zend-technologiesorganisation)
   - Miscellaneous
     - [Macintosh (Personal computers)](https://github.com/amitmerchant1990/how-products-got-their-name#macintosh-personal-computers)
-  
+
+## Programming Languages
 ### JavaScript (Programming language)
 
 From an [interview](http://www.infoworld.com/d/developer-world/javascript-creator-ponders-past-future-704) made to its creator [Brendan Eich](http://en.wikipedia.org/wiki/Brendan_Eich):
@@ -59,6 +60,7 @@ The name "Ruby" originated during an online chat session between Yukihiro Matsum
 
 The name Scala is a portmanteau of scalable and language, signifying that it is designed to grow with the demands of its users.
 
+## Operating Systems
 ### Ubuntu (Operation system)
 
 The OS was named after the Southern African philosophy of [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(philosophy)) (literally, 'human-ness'), which Canonical Ltd. suggests can be loosely translated as "humanity to others" or "I am what I am because of who we all are".
@@ -67,6 +69,7 @@ The OS was named after the Southern African philosophy of [ubuntu](https://en.wi
 
 Debian was first announced on August 16, 1993, by Ian Murdock, who initially called the system 'the Debian Linux Release'. The word 'Debian' was formed as a portmanteau of the first name of his then-girlfriend Debra Lynn and his own first name.
 
+## Softwares
 ### MySQL (Database management system)
 
 [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named).
@@ -135,6 +138,7 @@ The name Adobe was derived from Adobe Creek, a river or creek that ran behind th
 
 The word "Zend" has been derived from the names of Zeev Suraski and Andi Gutmans, the two founders of the organisation.
 
+## Miscellaneous
 ### Macintosh (Personal computers)
 
 The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who envisioned an easy-to-use, low-cost computer for the average consumer. He wanted to name the computer after his favorite type of apple, the McIntosh, but the spelling was changed to "Macintosh" for legal reasons as the original was the same spelling as that used by McIntosh Laboratory, Inc., the audio equipment manufacturer. Steve Jobs requested that McIntosh Laboratory give Apple a release for the name with its changed spelling so that Apple could use it, but the request was denied, forcing Apple to eventually buy the rights to use the name.
