@@ -21,6 +21,8 @@
   - [Microsoft (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
   - [Zend Technologies (Organisation)](https://github.com/amitmerchant1990/how-products-got-their-name#zend-technologiesorganisation)
   - [Xerox (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
+  - [Debian (Operation system)](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)
+  - [MongoDB (Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mongodb-database)
   
 ### JavaScript (Programming language)
 
