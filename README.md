@@ -133,7 +133,7 @@ Debian was first announced on August 16, 1993, by Ian Murdock, who initially cal
 
 ### Apache Cassandra (NoSQL Database)
 
-As per Greek mythology, Cassandra was the daughter of King Priam of Troy. She could accurately predict the future but nobody believed her. It's not entirely clear whether the name was  given to the data store because of this, but one reasoning is that NOSQL database solutions are inevitable for today's and future data needs, but there is a big resistance (or disbelief) from the traditional RDBMS world.
+As per Greek mythology, [Cassandra](https://en.wikipedia.org/wiki/Cassandra) was the daughter of King Priam of Troy. She could accurately predict the future but nobody believed her. It's not entirely clear whether the name was  given to the data store because of this, but one reasoning is that NOSQL database solutions are inevitable for today's and future data needs, but there is a big resistance (or disbelief) from the traditional RDBMS world.
 
 ### Macintosh (Personal computers)
 
