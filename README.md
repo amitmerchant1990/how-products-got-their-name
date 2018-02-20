@@ -99,6 +99,18 @@ The name Adobe was derived from Adobe Creek, a river or creek that ran behind th
 
 According to the FAQ in the Apache project website, the name Apache was chosen out of respect to the Native American tribe [Apache](https://en.wikipedia.org/wiki/Apache) and their superior skills in warfare and strategy. The name was widely believed to be a pun on 'A Patchy Server' (since it was a set of software patches).
 
+### Microsoft (Company)
+
+Coined by Bill Gates to represent the company that was devoted to microcomputer software.
+
+### Zend Technologies (Organisation)
+
+The word "Zend" has been derived from the names of Zeev Suraski and Andi Gutmans, the two founders of the organisation.
+
+### Xerox (Company)
+
+It has been derived from xerography, a word derived from the Greek xeros (dry) and graphos (writing).
+
 ## Contribute
 
 Do you have some more products/projects to add which have interesting origin to their name? Please go ahead and add to this list.
