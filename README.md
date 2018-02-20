@@ -59,7 +59,7 @@ The name "Ruby" originated during an online chat session between Yukihiro Matsum
 
 The name Scala is a portmanteau of scalable and language, signifying that it is designed to grow with the demands of its users.
 
-### Django (Python frmaework)
+### Django (Python framework)
 
 The framework was named after guitarist [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt).
 
