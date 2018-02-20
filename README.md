@@ -129,9 +129,15 @@ Debian was first announced on August 16, 1993, by Ian Murdock, who initially cal
 
 "MongoDB" derives from the word "humongous" because of the database’s ability to scale up with ease and hold very large amounts of data.
 
-## Apache Cassandra (NoSQL Database)
+### Apache Cassandra (NoSQL Database)
 
 As per Greek mythology, Cassandra was the daughter of King Priam of Troy. She could accurately predict the future but nobody believed her. It's not entirely clear whether the name was  given to the data store because of this, but one reasoning is that NOSQL database solutions are inevitable for today's and future data needs, but there is a big resistance (or disbelief) from the traditional RDBMS world.
+
+### Macintosh (Personal computers)
+
+The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who envisioned an easy-to-use, low-cost computer for the average consumer. He wanted to name the computer after his favorite type of apple, the McIntosh, but the spelling was changed to "Macintosh" for legal reasons as the original was the same spelling as that used by McIntosh Laboratory, Inc., the audio equipment manufacturer. Steve Jobs requested that McIntosh Laboratory give Apple a release for the name with its changed spelling so that Apple could use it, but the request was denied, forcing Apple to eventually buy the rights to use the name.
+
+> _Reference: https://en.wikipedia.org/wiki/Macintosh_
 
 ## Contribute
 
