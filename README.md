@@ -18,6 +18,9 @@
   - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name#skype-instant-messaging-app)
   - [Adobe (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#adobe-company)
   - [Apache (Software foundation)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-software-foundation)
+  - [Microsoft (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
+  - [Zend Technologies (Organisation)](https://github.com/amitmerchant1990/how-products-got-their-name#zend-technologiesorganisation)
+  - [Xerox (Company)](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
   
 ### JavaScript (Programming language)
 
