@@ -114,6 +114,14 @@ The word "Zend" has been derived from the names of Zeev Suraski and Andi Gutmans
 
 It has been derived from xerography, a word derived from the Greek xeros (dry) and graphos (writing).
 
+### Debian (Operation system)
+
+Debian was first announced on August 16, 1993, by Ian Murdock, who initially called the system 'the Debian Linux Release'. The word 'Debian' was formed as a portmanteau of the first name of his then-girlfriend Debra Lynn and his own first name.
+
+### MongoDB (Database)
+
+"MongoDB" derives from the word "humongous" because of the database’s ability to scale up with ease and hold very large amounts of data.
+
 ## Contribute
 
 Do you have some more products/projects to add which have interesting origin to their name? Please go ahead and add to this list.
