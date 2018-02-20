@@ -141,6 +141,12 @@ The Macintosh project was begun in 1979 by Jef Raskin, an Apple employee who env
 
 > _Reference: https://en.wikipedia.org/wiki/Macintosh_
 
+### Haskell (Functional Programming Language)
+
+The team that developed Haskell initially settled on the name "Curry", after American mathematician Haskell Curry, whose work heavily contributed to the development of functional programming paradigm. However, the team then had the opportunity to "sleep on it" for the night, after which a committee member pointed out that "The Tim" is a very popular abstract machine. And so the team decided to change the name to Haskell to avoid user associating the language with actor Tim Curry, then best known for playing Dr. Frank N. Furter in The Rocky Horror Picture Show.
+
+> _Reference: [Professor John Hughes](https://youtu.be/LnX3B9oaKzw?t=184)
+
 ## Contribute
 
 Do you have some more products/projects/companies to add which have interesting origin to their name? Please go ahead, add it to this list and raise a pull-request.
