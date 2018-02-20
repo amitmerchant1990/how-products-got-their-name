@@ -39,18 +39,6 @@ InfoWorld: As I understand it, JavaScript started out as Mocha, then became Live
 
 Eich: That’s right. It was all within six months from May till December (1995) that it was Mocha and then LiveScript. And then in early December, Netscape and Sun did a license agreement and it became JavaScript. And the idea was to make it a complementary scripting language to go with Java, with the compiled language.
 
-### MySQL (Database management system)
-
-[Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named).
-
-### Git (Version control system)
-
-Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
-
-### Ubuntu (Operation system)
-
-The OS was named after the Southern African philosophy of [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(philosophy)) (literally, 'human-ness'), which Canonical Ltd. suggests can be loosely translated as "humanity to others" or "I am what I am because of who we all are".
-
 ### Java (Programming language) 
 
 The language was initially called Oak after an oak tree that stood outside James Gosling(Developer of Java)'s office. Later the project went by the name Green and was finally renamed Java, from [Java coffee](https://en.wikipedia.org/wiki/Java_coffee).
@@ -66,10 +54,30 @@ _"In December 1989, I was looking for a "hobby" programming project that would k
 The name "Ruby" originated during an online chat session between Yukihiro Matsumoto (Developer of Ruby) and Keiju Ishitsuka on February 24, 1993, before any code had been written for the language. Initially two names were proposed: "Coral" and "Ruby". Matsumoto chose the latter in a later e-mail to Ishitsuka. Matsumoto later noted a factor in choosing the name "Ruby" – it was the birthstone of one of his colleagues.
   
 [Translated chat](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/88819) when name was decided and email they've shared. The original conversation was in Japanese.
-  
+
 ### Scala (Programming language) 
 
 The name Scala is a portmanteau of scalable and language, signifying that it is designed to grow with the demands of its users.
+
+### Ubuntu (Operation system)
+
+The OS was named after the Southern African philosophy of [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(philosophy)) (literally, 'human-ness'), which Canonical Ltd. suggests can be loosely translated as "humanity to others" or "I am what I am because of who we all are".
+
+### Debian (Operation system)
+
+Debian was first announced on August 16, 1993, by Ian Murdock, who initially called the system 'the Debian Linux Release'. The word 'Debian' was formed as a portmanteau of the first name of his then-girlfriend Debra Lynn and his own first name.
+
+### MySQL (Database management system)
+
+[Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named).
+
+### Apache Cassandra (NoSQL Database)
+
+As per Greek mythology, [Cassandra](https://en.wikipedia.org/wiki/Cassandra) was the daughter of King Priam of Troy. She could accurately predict the future but nobody believed her. It's not entirely clear whether the name was  given to the data store because of this, but one reasoning is that NOSQL database solutions are inevitable for today's and future data needs, but there is a big resistance (or disbelief) from the traditional RDBMS world.
+
+### Git (Version control system)
+
+Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
 
 ### Django (Python framework)
 
@@ -80,10 +88,6 @@ The framework was named after guitarist [Django Reinhardt](https://en.wikipedia.
 An answer from Glen Murphy, Design Lead, Google Chrome on asking "How Chrome gets its name?". In his words,
 
 _"We had a ‘pick a codename’ vote early in the development cycle – the names that came of that competition were so terrible that we were all pretty happy when one of the leads overrode it and declared that the codename would be ‘Chrome’, presumably because he likes fast cars."_
-
-### Mozilla (Company)
-
-The history of the name Mozilla goes all the way back to the internal codename for the original 1994 Netscape Navigator browser, with the name meaning "Mosaic killer" and aiming to some similarity with the building-crushing [Godzilla](https://en.wikipedia.org/wiki/Godzilla), as the company's goal was to displace [NCSA Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser)) as the world's number one web browser. The name Mozilla was revived as the 1998 open sourcing spinoff organization from Netscape.
 
 ### Firefox (Browser)
 
@@ -103,37 +107,33 @@ The name Hadoop is not an acronym; it’s a made-up name. The project’s creato
 
 The name for the software is derived from "Sky peer-to-peer", which was then abbreviated to "Skyper". However, some of the domain names associated with "Skyper" were already taken. Dropping the final "r" left the current title "Skype", for which domain names were available.
 
-### Adobe (Company)
-
-The name Adobe was derived from Adobe Creek, a river or creek that ran behind the house of John Warnock, one of the founders. But where is Adobe Creek? It's located in Los Altos, California.
-
 ### Apache (Software foundation)
 
 According to the FAQ in the Apache project website, the name Apache was chosen out of respect to the Native American tribe [Apache](https://en.wikipedia.org/wiki/Apache) and their superior skills in warfare and strategy. The name was widely believed to be a pun on 'A Patchy Server' (since it was a set of software patches).
-
-### Microsoft (Company)
-
-Coined by Bill Gates to represent the company that was devoted to microcomputer software.
-
-### Zend Technologies (Organisation)
-
-The word "Zend" has been derived from the names of Zeev Suraski and Andi Gutmans, the two founders of the organisation.
-
-### Xerox (Company)
-
-It has been derived from xerography, a word derived from the Greek xeros (dry) and graphos (writing).
-
-### Debian (Operation system)
-
-Debian was first announced on August 16, 1993, by Ian Murdock, who initially called the system 'the Debian Linux Release'. The word 'Debian' was formed as a portmanteau of the first name of his then-girlfriend Debra Lynn and his own first name.
 
 ### MongoDB (Database)
 
 "MongoDB" derives from the word "humongous" because of the database’s ability to scale up with ease and hold very large amounts of data.
 
-### Apache Cassandra (NoSQL Database)
+### Xerox (Company)
 
-As per Greek mythology, [Cassandra](https://en.wikipedia.org/wiki/Cassandra) was the daughter of King Priam of Troy. She could accurately predict the future but nobody believed her. It's not entirely clear whether the name was  given to the data store because of this, but one reasoning is that NOSQL database solutions are inevitable for today's and future data needs, but there is a big resistance (or disbelief) from the traditional RDBMS world.
+It has been derived from xerography, a word derived from the Greek xeros (dry) and graphos (writing).
+
+### Microsoft (Company)
+
+Coined by Bill Gates to represent the company that was devoted to microcomputer software.
+
+### Mozilla (Company)
+
+The history of the name Mozilla goes all the way back to the internal codename for the original 1994 Netscape Navigator browser, with the name meaning "Mosaic killer" and aiming to some similarity with the building-crushing [Godzilla](https://en.wikipedia.org/wiki/Godzilla), as the company's goal was to displace [NCSA Mosaic](https://en.wikipedia.org/wiki/Mosaic_(web_browser)) as the world's number one web browser. The name Mozilla was revived as the 1998 open sourcing spinoff organization from Netscape.
+
+### Adobe (Company)
+
+The name Adobe was derived from Adobe Creek, a river or creek that ran behind the house of John Warnock, one of the founders. But where is Adobe Creek? It's located in Los Altos, California.
+
+### Zend Technologies (Organisation)
+
+The word "Zend" has been derived from the names of Zeev Suraski and Andi Gutmans, the two founders of the organisation.
 
 ### Macintosh (Personal computers)
 
