@@ -28,6 +28,8 @@
     - [Mozilla](https://github.com/amitmerchant1990/how-products-got-their-name#mozilla-company)
     - [Adobe](https://github.com/amitmerchant1990/how-products-got-their-name#adobe-company)  
     - [Zend Technologies](https://github.com/amitmerchant1990/how-products-got-their-name#zend-technologiesorganisation)
+  - Miscellaneous
+    - [Macintosh (Personal computers)](https://github.com/amitmerchant1990/how-products-got-their-name#macintosh-personal-computers)
   
 ### JavaScript (Programming language)
 
