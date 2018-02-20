@@ -12,6 +12,7 @@
     - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
   - Softwares
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
+    - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
     - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-frmaework)
     - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
@@ -127,6 +128,10 @@ Debian was first announced on August 16, 1993, by Ian Murdock, who initially cal
 ### MongoDB (Database)
 
 "MongoDB" derives from the word "humongous" because of the database’s ability to scale up with ease and hold very large amounts of data.
+
+## Apache Cassandra (NoSQL Database)
+
+As per Greek mythology, Cassandra was the daughter of King Priam of Troy. She could accurately predict the future but nobody believed her. It's not entirely clear whether the name was  given to the data store because of this, but one reasoning is that NOSQL database solutions are inevitable for today's and future data needs, but there is a big resistance (or disbelief) from the traditional RDBMS world.
 
 ## Contribute
 
