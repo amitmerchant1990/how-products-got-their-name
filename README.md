@@ -12,7 +12,7 @@
     - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
   - Softwares
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
-    - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
+    - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-cassandra-nosql-database)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
     - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-frmaework)
     - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
