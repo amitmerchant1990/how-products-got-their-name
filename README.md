@@ -41,7 +41,7 @@ Eich: That’s right. It was all within six months from May till December (1995)
 
 ### MySQL (Database management system)
 
-[Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named).
+[Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named). Monty is also the lead developer for MariaDB, a fork of MySQL named after his younger daughter Maria. 
 
 ### Git (Version control system)
 
