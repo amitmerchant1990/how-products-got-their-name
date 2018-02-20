@@ -153,6 +153,12 @@ The original codename for the language is "cool" which stand for "C like Object 
 
 > _Reference: https://www.computerworld.com.au/article/261958/a-z_programming_languages_c_/?pp=2
 
+### Bash (Unix shell)
+
+As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash stand for Bourne Again SHell, a pun on the phrase "born-again'.
+
+> _Reference: http://www.markus-gattol.name/ws/bash.html
+
 ## Contribute
 
 Do you have some more products/projects/companies to add which have interesting origin to their name? Please go ahead, add it to this list and raise a pull-request.
