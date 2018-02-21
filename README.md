@@ -37,7 +37,7 @@
   
 ### JavaScript (Programming language)
 
-From an [interview](http://www.infoworld.com/d/developer-world/javascript-creator-ponders-past-future-704) made to its creator [Brendan Eich](http://en.wikipedia.org/wiki/Brendan_Eich):
+From an [interview](http://www.infoworld.com/d/developer-world/javascript-creator-ponders-past-future-704) with its creator [Brendan Eich](http://en.wikipedia.org/wiki/Brendan_Eich):
 
 InfoWorld: As I understand it, JavaScript started out as Mocha, then became LiveScript and then became JavaScript when Netscape and Sun got together. But it actually has nothing to do with Java or not much to do with it, correct?
 
@@ -47,7 +47,7 @@ Eich: That’s right. It was all within six months from May till December (1995)
 
 ### MySQL (Database management system)
 
-[Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named). 
+[Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founders of MySQL, which is named after his daughter My. 
 
 _Fun fact: Monty is also the lead developer for MariaDB, a fork of MySQL named after his younger daughter Maria._
 
@@ -65,21 +65,21 @@ The OS was named after the Southern African philosophy of [ubuntu](https://en.wi
 
 ### Java (Programming language) 
 
-The language was initially called Oak after an oak tree that stood outside James Gosling(Developer of Java)'s office. Later the project went by the name Green and was finally renamed Java, from [Java coffee](https://en.wikipedia.org/wiki/Java_coffee).
+The language was initially called Oak after an oak tree that stood outside the office of James Gosling, developer of Java. Later the project went by the name Green and was finally renamed Java, after [Java coffee](https://en.wikipedia.org/wiki/Java_coffee).
 
 > _Reference: https://www.javaworld.com/article/2077264/core-java/so-why-did-they-decide-to-call-it-java-.html_
 
 ### Python (Programming language) 
 
-In [Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)(Developer of Python)'s own words:
+In the words of [Guido Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), developer of Python:
 
 _"In December 1989, I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. My office ... would be closed, but I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately: a descendant of ABC that would appeal to Unix/C hackers. I chose Python as a working title for the project, being in a slightly irreverent mood (and a big fan of Monty Python's Flying Circus)."_
 
 ### Ruby (Programming language) 
 
-The name "Ruby" originated during an online chat session between Yukihiro Matsumoto (Developer of Ruby) and Keiju Ishitsuka on February 24, 1993, before any code had been written for the language. Initially two names were proposed: "Coral" and "Ruby". Matsumoto chose the latter in a later e-mail to Ishitsuka. Matsumoto later noted a factor in choosing the name "Ruby" – it was the birthstone of one of his colleagues.
+The name "Ruby" originated in an online chat session between Yukihiro Matsumoto (Developer of Ruby) and Keiju Ishitsuka on February 24, 1993, before any code had been written for the language. Initially, two names were proposed: "Coral" and "Ruby". Matsumoto chose the latter in a later e-mail to Ishitsuka. Matsumoto later noted a factor in choosing the name "Ruby" – it was the birthstone of one of his colleagues.
   
-[Translated chat](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/88819) when name was decided and email they've shared. The original conversation was in Japanese.
+[Translated chat](http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/88819) from when the name was decided and the email they shared. The original conversation was in Japanese.
   
 ### Scala (Programming language) 
 
@@ -91,7 +91,7 @@ The framework was named after guitarist [Django Reinhardt](https://en.wikipedia.
 
 ### Chrome (Browser)
 
-An answer from Glen Murphy, Design Lead, Google Chrome on asking "How Chrome gets its name?". In his words,
+An answer from Glen Murphy, a design lead for Google Chrome, when asked how Chrome got its name:
 
 _"We had a ‘pick a codename’ vote early in the development cycle – the names that came of that competition were so terrible that we were all pretty happy when one of the leads overrode it and declared that the codename would be ‘Chrome’, presumably because he likes fast cars."_
 
@@ -171,13 +171,13 @@ The original codename for the language is "cool" which stand for "C like Object 
 
 ### Bash (Unix shell)
 
-As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash stand for Bourne Again SHell, a pun on the phrase "born-again'.
+As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash stand for Bourne Again SHell, a pun on the phrase "born again'.
 
 > _Reference: http://www.markus-gattol.name/ws/bash.html_
 
 ### Trello (Project management application)
 
-Trello was code named Trellis when it was in development. It got that name because one of Fog Creek’s co-founders, Michael, suggested it as a code name in an early meeting. It was fine. It stuck. However, they couldn't buy the domain name trellis.com or any similar either. So, they end up buying trello.com and hence modified the name to Trello.
+Trello was code named Trellis when it was in development. It got that name because one of Fog Creek’s co-founders, Michael, suggested it as a code name in an early meeting. It was fine. It stuck. However, they couldn't buy the domain name trellis.com or anything similar. So, they end up buying trello.com and hence modified the name to Trello.
 
 > _Reference: https://blog.fogcreek.com/the-agonies-of-picking-a-product-name/_
 
