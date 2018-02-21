@@ -48,6 +48,8 @@ Eich: That’s right. It was all within six months from May till December (1995)
 
 [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named). Monty is also the lead developer for MariaDB, a fork of MySQL named after his younger daughter Maria. 
 
+> _Reference: https://en.wikipedia.org/wiki/MySQL_
+
 ### Git (Version control system)
 
 Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
