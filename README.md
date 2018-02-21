@@ -174,6 +174,12 @@ As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash
 
 > _Reference: http://www.markus-gattol.name/ws/bash.html_
 
+### Trello (Project management application)
+
+Trello was code named Trellis when it was in development. It got that name because one of Fog Creek’s co-founders, Michael, suggested it as a code name in an early meeting. It was fine. It stuck. However, they couldn't buy the domain name trellis.com or any similar either. So, they end up buying trello.com and hence modified the name to Trello.
+
+> _Reference: https://blog.fogcreek.com/the-agonies-of-picking-a-product-name/_
+
 ## Contribute
 
 Do you have some more products/projects/companies to add which have interesting origin to their name? Please go ahead, add it to this list and raise a pull-request.
