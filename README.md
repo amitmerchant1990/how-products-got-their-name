@@ -9,6 +9,7 @@
     - [Scala](https://github.com/amitmerchant1990/how-products-got-their-name#scala-programming-language)
     - [Haskell](https://github.com/amitmerchant1990/how-products-got-their-name#haskell-programming-language)
     - [C#](https://github.com/amitmerchant1990/how-products-got-their-name#c-programming-language)
+    - [Lua](https://github.com/amitmerchant1990/how-products-got-their-name#lua-programming-language)
   - Operating systems
     - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operation-system)
     - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
@@ -180,6 +181,13 @@ As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash
 Trello was code named Trellis when it was in development. It got that name because one of Fog Creek’s co-founders, Michael, suggested it as a code name in an early meeting. It was fine. It stuck. However, they couldn't buy the domain name trellis.com or anything similar. So, they end up buying trello.com and hence modified the name to Trello.
 
 > _Reference: https://blog.fogcreek.com/the-agonies-of-picking-a-product-name/_
+
+### Lua (Programming Language)
+
+Lua is a scripting language created by Brazilians Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes. Lua is a Portuguese word which means "moon"; this naming choice reflects that the language was partially inspired by SOL, which means "sun" in Portuguese. The authors of the language kindly request that you write it as "Lua" and not "LUA".
+
+> _Reference: https://www.lua.org/about.html
+> _Reference: https://wiki.debian.org/WhyTheName#lua
 
 ## Contribute
 
