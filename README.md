@@ -178,7 +178,7 @@ As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash
 
 ### Trello (Project management application)
 
-Trello was code named Trellis when it was in development. It got that name because one of Fog Creek’s co-founders, Michael, suggested it as a code name in an early meeting. It was fine. It stuck. However, they couldn't buy the domain name trellis.com or any similar either. So, they end up buying trello.com and hence modified the name to Trello.
+Trello was code named [Trellis](https://en.wikipedia.org/wiki/Trellis_(architecture)) when it was in development. It got that name because one of Fog Creek’s co-founders, Michael, suggested it as a code name in an early meeting. It was fine. It stuck. However, they couldn't buy the domain name trellis.com or any similar either. So, they end up buying trello.com and hence modified the name to Trello.
 
 > _Reference: https://blog.fogcreek.com/the-agonies-of-picking-a-product-name/_
 
