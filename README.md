@@ -187,14 +187,14 @@ Trello was code named Trellis when it was in development. It got that name becau
 
 Lua is a scripting language created by Brazilians Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes. Lua is a Portuguese word which means "moon"; this naming choice reflects that the language was partially inspired by SOL, which means "sun" in Portuguese. The authors of the language kindly request that you write it as "Lua" and not "LUA".
 
-> _Reference: https://www.lua.org/about.html
-> _Reference: https://wiki.debian.org/WhyTheName#lua
+> _Reference: https://www.lua.org/about.html_
+> _Reference: https://wiki.debian.org/WhyTheName#lua_
 
 ### Ansible (Application Deployment, etc)
 
 Ansible, originally created by Michael DeHaan, is a project that helps to automate configuration management and application deployment. The inspiration for its naming comes from a sci-fi device called the ansible, which allowed for instantaneous communication over vast distances. The device shows up in Orson Scott Card's _Ender's Game_ and was originally conceived by Ursula K. Le Guin in _Rocannon's World_.
 
-> _Reference: https://en.wikipedia.org/wiki/Ansible_(software)
+> _Reference: https://en.wikipedia.org/wiki/Ansible_(software)_
 
 ## Contribute
 
