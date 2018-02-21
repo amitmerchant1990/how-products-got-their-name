@@ -27,7 +27,7 @@
     - [MongoDB (Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mongodb-database)
     - [Bash (Unix shell)](https://github.com/amitmerchant1990/how-products-got-their-name#bash-unix-shell)
     - [Trello (Project management application)](https://github.com/amitmerchant1990/how-products-got-their-name#trello-project-management-application)
-    - [Ansible (Application Deployment, etc)]((https://github.com/amitmerchant1990/how-products-got-their-name#ansible-applicatoin-deployment-etc)
+    - [Ansible (Application Deployment, etc)](https://github.com/amitmerchant1990/how-products-got-their-name#ansible-applicatoin-deployment-etc)
   - Companies
     - [Xerox](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
     - [Microsoft](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
