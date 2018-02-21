@@ -201,7 +201,7 @@ Ansible, originally created by Michael DeHaan, is a project that helps to automa
 
 The name comes from [Kotlin Island](https://en.wikipedia.org/wiki/Kotlin_Island), near St. Petersburg. Andrey Breslav mentioned that the team decided to name it after an island just like Java was named after the Indonesian island of [Java](https://en.wikipedia.org/wiki/Java). (though the programming language Java was perhaps named after the coffee.)
 
-> _Reference: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+> _Reference: https://en.wikipedia.org/wiki/Kotlin_(programming_language)_
 
 ## Contribute
 
