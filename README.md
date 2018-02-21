@@ -62,6 +62,8 @@ The OS was named after the Southern African philosophy of [ubuntu](https://en.wi
 
 The language was initially called Oak after an oak tree that stood outside James Gosling(Developer of Java)'s office. Later the project went by the name Green and was finally renamed Java, from [Java coffee](https://en.wikipedia.org/wiki/Java_coffee).
 
+> _Reference: https://www.javaworld.com/article/2077264/core-java/so-why-did-they-decide-to-call-it-java-.html_
+
 ### Python (Programming language) 
 
 In [Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)(Developer of Python)'s own words:
