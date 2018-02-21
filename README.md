@@ -58,7 +58,7 @@ Linus Torvalds (Developer of Git) has quipped about the name git, which is Briti
 
 > _Reference: https://en.wikipedia.org/wiki/Git_
 
-### Ubuntu (Operation system)
+### Ubuntu (Operating system)
 
 The OS was named after the Southern African philosophy of [ubuntu](https://en.wikipedia.org/wiki/Ubuntu_(philosophy)) (literally, 'human-ness'), which Canonical Ltd. suggests can be loosely translated as "humanity to others" or "I am what I am because of who we all are".
 
@@ -138,7 +138,7 @@ The word "Zend" has been derived from the names of Zeev Suraski and Andi Gutmans
 
 It has been derived from xerography, a word derived from the Greek xeros (dry) and graphos (writing).
 
-### Debian (Operation system)
+### Debian (Operating system)
 
 Debian was first announced on August 16, 1993, by Ian Murdock, who initially called the system 'the Debian Linux Release'. The word 'Debian' was formed as a portmanteau of the first name of his then-girlfriend Debra Lynn and his own first name.
 
