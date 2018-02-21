@@ -42,6 +42,8 @@ InfoWorld: As I understand it, JavaScript started out as Mocha, then became Live
 
 Eich: That’s right. It was all within six months from May till December (1995) that it was Mocha and then LiveScript. And then in early December, Netscape and Sun did a license agreement and it became JavaScript. And the idea was to make it a complementary scripting language to go with Java, with the compiled language.
 
+> _Reference: https://www.infoworld.com/article/2653798/application-development/javascript-creator-ponders-past--future.html_
+
 ### MySQL (Database management system)
 
 [Michael "Monty" Widenius](https://en.wikipedia.org/wiki/Michael_Widenius) is one of the founder of MySQL and one of his daughter's name is My(after whom MySQL was named). Monty is also the lead developer for MariaDB, a fork of MySQL named after his younger daughter Maria. 
