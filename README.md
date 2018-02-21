@@ -13,7 +13,7 @@
   - Operating systems
     - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operation-system)
     - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
-  - Softwares
+  - Software
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
     - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-cassandra-nosql-database)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
@@ -27,6 +27,7 @@
     - [MongoDB (Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mongodb-database)
     - [Bash (Unix shell)](https://github.com/amitmerchant1990/how-products-got-their-name#bash-unix-shell)
     - [Trello (Project management application)](https://github.com/amitmerchant1990/how-products-got-their-name#trello-project-management-application)
+    - [Ansible (Application Deployment, etc)]((https://github.com/amitmerchant1990/how-products-got-their-name#ansible-applicatoin-deployment-etc)
   - Companies
     - [Xerox](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
     - [Microsoft](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
@@ -188,6 +189,12 @@ Lua is a scripting language created by Brazilians Roberto Ierusalimschy, Luiz He
 
 > _Reference: https://www.lua.org/about.html
 > _Reference: https://wiki.debian.org/WhyTheName#lua
+
+### Ansible (Application Deployment, etc)
+
+Ansible, originally created by Michael DeHaan, is a project that helps to automate configuration management and application deployment. The inspiration for its naming comes from a sci-fi device called the ansible, which allowed for instantaneous communication over vast distances. The device shows up in Orson Scott Card's _Ender's Game_ and was originally conceived by Ursula K. Le Guin in _Rocannon's World_.
+
+> _Reference: https://en.wikipedia.org/wiki/Ansible_(software)
 
 ## Contribute
 
