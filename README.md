@@ -9,6 +9,7 @@
     - [Scala](https://github.com/amitmerchant1990/how-products-got-their-name#scala-programming-language)
     - [Haskell](https://github.com/amitmerchant1990/how-products-got-their-name#haskell-programming-language)
     - [C#](https://github.com/amitmerchant1990/how-products-got-their-name#c-programming-language)
+    - [Kotlin](https://github.com/amitmerchant1990/how-products-got-their-name#kotlin-programming-language)
   - Operating systems
     - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operation-system)
     - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
