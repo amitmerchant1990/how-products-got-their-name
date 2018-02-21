@@ -9,6 +9,7 @@
     - [Scala](https://github.com/amitmerchant1990/how-products-got-their-name#scala-programming-language)
     - [Haskell](https://github.com/amitmerchant1990/how-products-got-their-name#haskell-programming-language)
     - [C#](https://github.com/amitmerchant1990/how-products-got-their-name#c-programming-language)
+    - [Kotlin](https://github.com/amitmerchant1990/how-products-got-their-name#kotlin-programming-language)
     - [Lua](https://github.com/amitmerchant1990/how-products-got-their-name#lua-programming-language)
   - Operating systems
     - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operation-system)
@@ -179,7 +180,7 @@ As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash
 
 ### Trello (Project management application)
 
-Trello was code named Trellis when it was in development. It got that name because one of Fog Creek’s co-founders, Michael, suggested it as a code name in an early meeting. It was fine. It stuck. However, they couldn't buy the domain name trellis.com or anything similar. So, they end up buying trello.com and hence modified the name to Trello.
+Trello was code named Trellis when it was in development. It got that name because one of Fog Creek’s co-founders, Michael, suggested it as a code name in an early meeting. It was fine. It stuck. However, they couldn't buy the domain name trellis.com or anything similar. So, they ended up buying trello.com and hence modified the name to Trello.
 
 > _Reference: https://blog.fogcreek.com/the-agonies-of-picking-a-product-name/_
 
@@ -195,6 +196,12 @@ Lua is a scripting language created by Brazilians Roberto Ierusalimschy, Luiz He
 Ansible, originally created by Michael DeHaan, is a project that helps to automate configuration management and application deployment. The inspiration for its naming comes from a sci-fi device called the ansible, which allowed for instantaneous communication over vast distances. The device shows up in Orson Scott Card's _Ender's Game_ and was originally conceived by Ursula K. Le Guin in _Rocannon's World_.
 
 > _Reference: https://en.wikipedia.org/wiki/Ansible_(software)_
+
+### Kotlin (programming language)
+
+The name comes from [Kotlin Island](https://en.wikipedia.org/wiki/Kotlin_Island), near St. Petersburg. Andrey Breslav mentioned that the team decided to name it after an island just like Java was named after the Indonesian island of [Java](https://en.wikipedia.org/wiki/Java). (though the programming language Java was perhaps named after the coffee.)
+
+> _Reference: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
 
 ## Contribute
 
