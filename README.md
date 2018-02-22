@@ -62,7 +62,7 @@ _Fun fact: Monty is also the lead developer for MariaDB, a fork of MySQL named a
 
 ### Git (Version control system)
 
-Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
+Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: _"I'm an egotistical bastard, and I name all my projects after myself."_ First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
 
 > _Reference: https://en.wikipedia.org/wiki/Git_
 
