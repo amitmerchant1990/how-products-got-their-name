@@ -1,5 +1,9 @@
 ![](https://raw.githubusercontent.com/amitmerchant1990/how-products-got-their-name/master/banner.jpg)
-> Sometimes, it's kind of interesting to know the origins of the products/projects we love. Here's a collection of such software products/projects/companies and the stories of how they got their name.
+> Sometimes, it's kind of fascinating to know the origins of the products/projects we love. Here's a collection of such software products/projects/companies and the stories of how they got their name.
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>  
 
   - Programming languages
     - [JavaScript](https://github.com/amitmerchant1990/how-products-got-their-name#javascript-programming-language)
@@ -12,13 +16,13 @@
     - [Kotlin](https://github.com/amitmerchant1990/how-products-got-their-name#kotlin-programming-language)
     - [Lua](https://github.com/amitmerchant1990/how-products-got-their-name#lua-programming-language)
   - Operating systems
-    - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operation-system)
-    - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
+    - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operating-system)
+    - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operating-system)  
   - Software
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
     - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-cassandra-nosql-database)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
-    - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-frmaework)
+    - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-framework)
     - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
     - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
     - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
@@ -28,7 +32,7 @@
     - [MongoDB (Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mongodb-database)
     - [Bash (Unix shell)](https://github.com/amitmerchant1990/how-products-got-their-name#bash-unix-shell)
     - [Trello (Project management application)](https://github.com/amitmerchant1990/how-products-got-their-name#trello-project-management-application)
-    - [Ansible (Application Deployment, etc)](https://github.com/amitmerchant1990/how-products-got-their-name#ansible-applicatoin-deployment-etc)
+    - [Ansible (Application Deployment, etc)](https://github.com/amitmerchant1990/how-products-got-their-name#ansible-application-deployment-etc)
   - Companies
     - [Xerox](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
     - [Microsoft](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
@@ -58,7 +62,7 @@ _Fun fact: Monty is also the lead developer for MariaDB, a fork of MySQL named a
 
 ### Git (Version control system)
 
-Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
+Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: _"I'm an egotistical bastard, and I name all my projects after myself."_ First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
 
 > _Reference: https://en.wikipedia.org/wiki/Git_
 
@@ -201,7 +205,7 @@ Ansible, originally created by Michael DeHaan, is a project that helps to automa
 
 The name comes from [Kotlin Island](https://en.wikipedia.org/wiki/Kotlin_Island), near St. Petersburg. Andrey Breslav mentioned that the team decided to name it after an island just like Java was named after the Indonesian island of [Java](https://en.wikipedia.org/wiki/Java). (though the programming language Java was perhaps named after the coffee.)
 
-> _Reference: https://en.wikipedia.org/wiki/Kotlin_(programming_language)
+> _Reference: https://en.wikipedia.org/wiki/Kotlin_(programming_language)_
 
 ## Contribute
 
