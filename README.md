@@ -25,6 +25,7 @@
     - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-framework)
     - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
     - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
+    - [Symfony (PHP framework)](https://github.com/amitmerchant1990/how-products-got-their-name#symfony-php-framework)
     - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
     - [Hadoop (Open source big data software)](https://github.com/amitmerchant1990/how-products-got-their-name#hadoop-open-source-big-data-software)
     - [Skype (Instant messaging app)](https://github.com/amitmerchant1990/how-products-got-their-name#skype-instant-messaging-app)
@@ -109,6 +110,12 @@ The history of the name Mozilla goes all the way back to the internal codename f
 ### Firefox (Browser)
 
 The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird" (which was the former name of Firefox), but also for its uniqueness in the computing industry as the name Firebird clashed with the opensource Firebird database. The name "Firebird" itself was picked because it was another name for a "Phoenix" (which was the browser's name prior to Firebird). "Phoenix" was chosen as it was the browser that rose from the ashes of the Mozilla browser, however a trademark infringement complaint from Phoenix Technologies prompted the name change to Firebird.
+
+### Symfony (PHP framework)
+
+The first name was Sensio Framework, and all classes were therefore prefixed with `sf`. Later on when it was decided to launch it as open source framework, the brainstorming resulted in the name symfony (being renamed to Symfony from version 2 and on), which matches the existing theme and class name prefixes.
+
+> Reference: https://en.wikipedia.org/wiki/Symfony#Sponsors
 
 ### Laravel (PHP Framework)
 
