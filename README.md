@@ -16,13 +16,13 @@
     - [Kotlin](https://github.com/amitmerchant1990/how-products-got-their-name#kotlin-programming-language)
     - [Lua](https://github.com/amitmerchant1990/how-products-got-their-name#lua-programming-language)
   - Operating systems
-    - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operation-system)
-    - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operation-system)  
+    - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operating-system)
+    - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operating-system)  
   - Software
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
     - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-cassandra-nosql-database)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
-    - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-frmaework)
+    - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-framework)
     - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
     - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
     - [Laravel (PHP Framework)](https://github.com/amitmerchant1990/how-products-got-their-name#laravel-php-framework)
@@ -32,7 +32,7 @@
     - [MongoDB (Database)](https://github.com/amitmerchant1990/how-products-got-their-name#mongodb-database)
     - [Bash (Unix shell)](https://github.com/amitmerchant1990/how-products-got-their-name#bash-unix-shell)
     - [Trello (Project management application)](https://github.com/amitmerchant1990/how-products-got-their-name#trello-project-management-application)
-    - [Ansible (Application Deployment, etc)](https://github.com/amitmerchant1990/how-products-got-their-name#ansible-applicatoin-deployment-etc)
+    - [Ansible (Application Deployment, etc)](https://github.com/amitmerchant1990/how-products-got-their-name#ansible-application-deployment-etc)
   - Companies
     - [Xerox](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
     - [Microsoft](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
