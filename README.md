@@ -220,4 +220,4 @@ Do you have some more products/projects/companies to add which have interesting 
 
 ## License
 
-MIT
+MIT © [Amit Merchant](https://www.amitmerchant.com)
