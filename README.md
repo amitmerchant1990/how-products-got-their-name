@@ -35,6 +35,7 @@
     - [Bash (Unix shell)](https://github.com/amitmerchant1990/how-products-got-their-name#bash-unix-shell)
     - [Trello (Project management application)](https://github.com/amitmerchant1990/how-products-got-their-name#trello-project-management-application)
     - [Ansible (Application Deployment, etc)](https://github.com/amitmerchant1990/how-products-got-their-name#ansible-application-deployment-etc)
+    - [Unigine (Game engine)](https://github.com/amitmerchant1990/how-products-got-their-name#unigine-game-engine)
   - Companies
     - [Xerox](https://github.com/amitmerchant1990/how-products-got-their-name#xerox-company)
     - [Microsoft](https://github.com/amitmerchant1990/how-products-got-their-name#microsoft-company)
@@ -70,9 +71,8 @@ Linus Torvalds (Developer of Git) has quipped about the name git, which is Briti
 
 ### GoLand (IDE)
 
-GoLand is a cross-platform IDE by JetBrains aimed at providing an ergonomic environment for Go development. Initially the name was Gogland, from the Gogland island in the eastern Baltic Sea, near St. Petersburg. But later IDE was renamed to GoLand.
+GoLand is a cross-platform IDE by JetBrains aimed at providing an ergonomic environment for Go development. Initially the name was Gogland, from the [Gogland Island](https://en.wikipedia.org/wiki/Gogland) in the eastern Baltic Sea, near St. Petersburg. But later IDE was renamed to GoLand.
 
-> _Reference: https://en.wikipedia.org/wiki/Gogland_
 > _Reference: https://blog.jetbrains.com/go/2016/12/15/announcing-gogland-brand-new-go-ide-from-jetbrains/_  
 > _Reference: https://blog.jetbrains.com/go/2017/11/02/announcing-goland-former-gogland-eap-18-final-product-name-templates-support-and-more/_  
 
@@ -222,6 +222,12 @@ Ansible, originally created by Michael DeHaan, is a project that helps to automa
 The name comes from [Kotlin Island](https://en.wikipedia.org/wiki/Kotlin_Island), near St. Petersburg. Andrey Breslav mentioned that the team decided to name it after an island just like Java was named after the Indonesian island of [Java](https://en.wikipedia.org/wiki/Java). (though the programming language Java was perhaps named after the coffee.)
 
 > _Reference: https://en.wikipedia.org/wiki/Kotlin_(programming_language)_
+
+### Unigine (Game engine)
+
+Unigine is a proprietary cross-platform game engine, developed by Russian software company Unigine Corp. The name "Unigine" means "universal engine" or "unique engine".
+
+> _Reference: https://en.wikipedia.org/wiki/Unigine_
 
 ## Contribute
 
