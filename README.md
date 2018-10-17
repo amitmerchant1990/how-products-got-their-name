@@ -22,6 +22,7 @@
     - [MySQL (Database management system)](https://github.com/amitmerchant1990/how-products-got-their-name#mysql-database-management-system)
     - [Apache Cassandra (NoSQL Database)](https://github.com/amitmerchant1990/how-products-got-their-name#apache-cassandra-nosql-database)
     - [Git (Version control system)](https://github.com/amitmerchant1990/how-products-got-their-name#git-version-control-system)
+    - [GoLand (IDE)](https://github.com/amitmerchant1990/how-products-got-their-name#goland-ide)
     - [Django (Python framework)](https://github.com/amitmerchant1990/how-products-got-their-name#django-python-framework)
     - [Chrome (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#chrome-browser)
     - [Firefox (Browser)](https://github.com/amitmerchant1990/how-products-got-their-name#firefox-browser)
@@ -66,6 +67,14 @@ _Fun fact: Monty is also the lead developer for MariaDB, a fork of MySQL named a
 Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: _"I'm an egotistical bastard, and I name all my projects after myself."_ First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
 
 > _Reference: https://en.wikipedia.org/wiki/Git_
+
+### GoLand (IDE)
+
+GoLand is a cross-platform IDE by JetBrains aimed at providing an ergonomic environment for Go development. Initially the name was Gogland, from the Gogland island in the eastern Baltic Sea, near St. Petersburg. But later IDE was renamed to GoLand.
+
+> _Reference: https://en.wikipedia.org/wiki/Gogland_
+> _Reference: https://blog.jetbrains.com/go/2016/12/15/announcing-gogland-brand-new-go-ide-from-jetbrains/_  
+> _Reference: https://blog.jetbrains.com/go/2017/11/02/announcing-goland-former-gogland-eap-18-final-product-name-templates-support-and-more/_  
 
 ### Ubuntu (Operating system)
 
@@ -199,7 +208,7 @@ Trello was code named Trellis when it was in development. It got that name becau
 
 Lua is a scripting language created by Brazilians Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes. Lua is a Portuguese word which means "moon"; this naming choice reflects that the language was partially inspired by SOL, which means "sun" in Portuguese. The authors of the language kindly request that you write it as "Lua" and not "LUA".
 
-> _Reference: https://www.lua.org/about.html_
+> _Reference: https://www.lua.org/about.html_  
 > _Reference: https://wiki.debian.org/WhyTheName#lua_
 
 ### Ansible (Application Deployment, etc)
