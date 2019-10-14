@@ -65,7 +65,7 @@ _Fun fact: Monty is also the lead developer for MariaDB, a fork of MySQL named a
 
 ### Git (Version control system)
 
-Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: _"I'm an egotistical bastard, and I name all my projects after myself."_ First 'Linux', now 'git'.The man page describes git as "the stupid content tracker".
+Linus Torvalds (Developer of Git) has quipped about the name git, which is British English slang for a stupid or unpleasant person. Torvalds said: _"I'm an egotistical bastard, and I name all my projects after myself."_ First 'Linux', now 'git'. The man page describes git as "the stupid content tracker".
 
 > _Reference: https://en.wikipedia.org/wiki/Git_
 
@@ -118,11 +118,11 @@ The history of the name Mozilla goes all the way back to the internal codename f
 
 ### Firefox (Browser)
 
-The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird" (which was the former name of Firefox), but also for its uniqueness in the computing industry as the name Firebird clashed with the opensource Firebird database. The name "Firebird" itself was picked because it was another name for a "Phoenix" (which was the browser's name prior to Firebird). "Phoenix" was chosen as it was the browser that rose from the ashes of the Mozilla browser, however a trademark infringement complaint from Phoenix Technologies prompted the name change to Firebird.
+The name "Firefox" (a reference to the [red panda](https://en.wikipedia.org/wiki/Red_panda)) was chosen by Mozilla for its similarity to "Firebird" (which was the former name of Firefox), but also for its uniqueness in the computing industry as the name Firebird clashed with the open source Firebird database. The name "Firebird" itself was picked because it was another name for a "Phoenix" (which was the browser's name prior to Firebird). "Phoenix" was chosen as it was the browser that rose from the ashes of the Mozilla browser, however a trademark infringement complaint from Phoenix Technologies prompted the name change to Firebird.
 
 ### Symfony (PHP framework)
 
-The first name was Sensio Framework, and all classes were therefore prefixed with `sf`. Later on when it was decided to launch it as open source framework, the brainstorming resulted in the name symfony (being renamed to Symfony from version 2 and on), which matches the existing theme and class name prefixes.
+The first name was Sensio Framework, and all classes were therefore prefixed with `sf`. Later on when it was decided to launch it as an open source framework, the brainstorming resulted in the name symfony (being renamed to Symfony from version 2 and on), which matches the existing theme and class name prefixes.
 
 > Reference: https://en.wikipedia.org/wiki/Symfony#Sponsors
 
@@ -194,7 +194,7 @@ The original codename for the language is "cool" which stand for "C like Object 
 
 ### Bash (Unix shell)
 
-As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash stand for Bourne Again SHell, a pun on the phrase "born again'.
+As a replacement for Bourne Shell (named after its creator Stephen Bourne), Bash stands for Bourne Again SHell, a pun on the phrase "born again'.
 
 > _Reference: http://www.markus-gattol.name/ws/bash.html_
 
