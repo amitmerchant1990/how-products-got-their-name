@@ -231,7 +231,7 @@ Unigine is a proprietary cross-platform game engine, developed by Russian softwa
 
 ## Contribute
 
-Do you have some more products/projects/companies to add which have interesting origin to their name? Please go ahead, add it to this list and raise a pull-request.
+Do you have some more products/projects/companies to add which has interesting origin to their name? Please go ahead, add it to this list and raise a pull-request.
 
 ## License
 
