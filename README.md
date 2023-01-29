@@ -15,6 +15,7 @@
     - [C#](https://github.com/amitmerchant1990/how-products-got-their-name#c-programming-language)
     - [Kotlin](https://github.com/amitmerchant1990/how-products-got-their-name#kotlin-programming-language)
     - [Lua](https://github.com/amitmerchant1990/how-products-got-their-name#lua-programming-language)
+    - [Rust](https://github.com/amitmerchant1990/how-products-got-their-name#rust)
   - Operating systems
     - [Ubuntu](https://github.com/amitmerchant1990/how-products-got-their-name#ubuntu-operating-system)
     - [Debian](https://github.com/amitmerchant1990/how-products-got-their-name#debian-operating-system)  
@@ -101,6 +102,12 @@ The name "Ruby" originated in an online chat session between Yukihiro Matsumoto 
 ### Scala (Programming language) 
 
 The name Scala is a portmanteau of scalable and language, signifying that it is designed to grow with the demands of its users.
+
+### Rust
+
+Rust is named after a [fungus](http://en.wikipedia.org/wiki/Rust_%28fungus%29) that is robust, distributed, and parallel. It is also a substring of **"robust"**.
+
+> Reference: https://stackoverflow.com/a/16503989/1485183
 
 ### Django (Python framework)
 
